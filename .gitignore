@@ -1,2 +1,4 @@
 node_modules/
 gib/
+.DS_Store
+.env
